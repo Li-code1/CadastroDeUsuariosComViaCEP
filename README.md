@@ -1,5 +1,5 @@
 
-# 📋 Cadastro de Usuários com ViaCEP, Web Storage e CRUD Simples (com Número da Casa)
+# 📋 Cadastro de Usuários com ViaCEP, Web Storage e CRUD Simples
 
 Aplicação web semântica, responsiva e acessível para **cadastro de usuários**.
 Integra **ViaCEP** (Fetch API) para preenchimento de endereço pelo **CEP**, permite cadastrar **múltiplos usuários** (CRUD), oferece **modo claro/escuro** com persistência e inclui o campo **Número da casa** (informado manualmente).
@@ -70,9 +70,5 @@ Integra **ViaCEP** (Fetch API) para preenchimento de endereço pelo **CEP**, per
 
 ---
 
-## 📌 Changelog (breve)
 
-- README atualizado para refletir recursos implementados: **edição**, **debounce** na busca de CEP, **exportar/importar** e melhorias de validação.
-
----
 
